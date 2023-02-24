@@ -1,0 +1,9 @@
+.wrapper-challenge {
+  background-color: #f3e300;
+  color: #1876d2;
+}
+.container-challenge {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
